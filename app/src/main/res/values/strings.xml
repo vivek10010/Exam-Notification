@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">fever</string>
+    <string name="dashboard">DASHBOARD</string>
+    <string name="logout">Logout</string>
+    <string name="profile">Profile</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="exam_layout">Exam Layout</string>
+    <string name="saved">Saved</string>
+    <string name="link">link</string>
+</resources>

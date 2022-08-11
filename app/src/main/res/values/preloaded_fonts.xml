@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/</item>
+        <item>@font/adamina</item>
+        <item>@font/akronim</item>
+        <item>@font/alata</item>
+        <item>@font/aldrich</item>
+        <item>@font/alex_brush</item>
+        <item>@font/allerta</item>
+        <item>@font/almendra_sc</item>
+        <item>@font/bungee_shade</item>
+        <item>@font/caesar_dressing</item>
+        <item>@font/codystar_light</item>
+        <item>@font/faster_one</item>
+        <item>@font/lemon</item>
+        <item>@font/londrina_outline</item>
+        <item>@font/macondo_swash_caps</item>
+        <item>@font/suez_one</item>
+        <item>@font/wire_one</item>
+    </array>
+</resources>
